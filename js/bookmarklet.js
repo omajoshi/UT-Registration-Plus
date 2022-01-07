@@ -711,7 +711,7 @@ Template.Main = class {
                 </div>`;
     }
     static extension_button() {
-        return `<td data-th="Plus"><input type="image" class="distButton" id="distButton" width="20" height="20" src='https://iqt.txfa.org/static/iqt/pencil-small.png'/></td>`;
+        return `<td data-th="Plus"><input type="image" class="distButton" id="distButton" width="20" height="20" src='https://i.ibb.co/4RL2G0F/disticon.png'/></td>`;
     }
 };
 Template.Catalog = class {
